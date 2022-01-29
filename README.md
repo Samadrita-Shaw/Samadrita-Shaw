@@ -8,6 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/samadrita-shaw-640865205/)](https://www.linkedin.com/in/samadrita-shaw-640865205/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-orange?style=flat&labelColor=c0392b&logo=gmail&logoColor=white&mailto=shawsamadrita@gmail.com)](mailto:shawsamadrita@gmail.com)
 [![Showwcase Badge](https://img.shields.io/badge/Showwcase-black?style=flat&labelColor=000000&logo=showwcase&logoColor=white&link=https://www.showwcase.com/samadrita)](https://www.showwcase.com/samadrita)
+[![Hashnode badge](https://img.shields.io/badge/Hashnode-violet?style=flat&labelColor=C55FFC&logo=blog&logoColor=white&link=https://samadritashaw.hashnode.dev/)](https://samadritashaw.hashnode.dev/)
 <br/>
 
 ## Languages 📝
