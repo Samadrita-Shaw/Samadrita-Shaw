@@ -2,6 +2,7 @@
 ## About 👋
 🎓I am a **sophomore**, pursuing Bachelors in **Computer Science and Engineering**. <br>
 💡I am currently focusing on **Data Structures and Algorithm** in *Java*. A *beginner* contributor at **Open Source**. <br>
+🕸️ Being interested in Web Development, I have started my journey with HTML and CSS and learning. <br>
 📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shawsamadrita)](https://twitter.com/shawsamadrita)
