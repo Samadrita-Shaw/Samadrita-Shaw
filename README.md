@@ -1,4 +1,4 @@
-# Hi there, I'm Samadrita Shaw <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hi there, I'm Samadrita Shaw <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 ## About 👋
 🎓I am a **sophomore**, pursuing Bachelors in **Computer Science and Engineering**. <br>
 💡I am currently focusing on **Data Structures and Algorithm** in *Java*. A *beginner* contributor at **Open Source**. <br>
