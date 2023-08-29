@@ -1,6 +1,6 @@
 # Hi there, I'm Samadrita Shaw <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 ## About 👋
-🎓I am a **junior**, pursuing Bachelors in **Computer Science and Engineering**. <br>
+🎓I am a **senior**, pursuing Bachelors in **Computer Science and Engineering**. <br>
 💡I am currently focusing on **Data Structures and Algorithm** in *Java*. A *beginner* contributor at **Open Source**. <br>
 🕸️ Being interested in Web Development, I have started my journey with HTML, CSS, JavaScript and React. <br>
 📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
